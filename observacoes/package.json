@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.27.2",
+    "exos": "^0.0.10",
     "express": "^4.18.1",
     "uuid": "^9.0.0"
   },
